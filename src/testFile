@@ -1,0 +1,27 @@
+go 10
+ld doc1
+link=c(10) and link=b(7)
+write also link=z end finish link=a(20)
+eod
+add f(9)
+add g(4)
+add e(3)
+add l(11)
+add k(15)
+add t(21)
+add v(23)
+add y(31)
+add p(13)
+show
+mergesort
+radixsort
+ha
+---------
+go 10
+ld doc1
+eod
+add a(1)
+add b(2)
+add c(3)
+add d(4)
+bubblesort
